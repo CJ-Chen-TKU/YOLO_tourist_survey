@@ -4,7 +4,6 @@ Pillow==9.4.0
 numpy==1.26.4
 pandas==1.5.3
 openpyxl==3.1.2
-ultralytics==8.1.27
+ultralytics==8.0.20
 scikit-learn==1.2.2
 pyopengl
-opencv-python==none
