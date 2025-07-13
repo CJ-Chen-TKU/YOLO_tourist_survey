@@ -1,14 +1,8 @@
-# ✅ Python 版本建議：3.10（請在本地或虛擬環境中確認）
-# Streamlit UI
 streamlit==1.26.0
-# 影像處理
 opencv-python-headless==4.9.0.80
 Pillow==9.5.0
 numpy==1.24.4
-# 表格與檔案儲存
 pandas==1.5.3
 openpyxl==3.1.2
-# YOLOv8 物件偵測
-ultralytics==8.1.27  # 可依照實際使用版本調整
-# 補充：解決部分安裝依賴（如 colab、虛擬環境）
+ultralytics==8.1.27
 scikit-learn==1.2.2
