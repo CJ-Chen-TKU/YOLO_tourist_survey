@@ -1,11 +1,5 @@
-# requirements.txt
-
-# --- Python 版本限制 ---
-python_version < 3.13
-
-# --- 主要依賴 ---
 streamlit==1.32.2
-pillow==10.3.0
+pillow==10.2.0
 pandas==2.2.2
 openpyxl==3.1.2
 numpy==1.26.4
